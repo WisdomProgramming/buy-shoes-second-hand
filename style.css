@@ -1,0 +1,178 @@
+html {
+	background-image: url(https://img.youscreen.ru/wall/14977653317633/14977653317633_1920x1200.jpg), url(https://kartinkof.cdnsap.ru/posts/chernobelyi-fon-dlia-kanala-quotiutubquot-75-foto-9.jpg), url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jp);
+	background-position: top, center 950px;
+	background-color: black;
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	background-attachment: local, local, local;	
+	background-size: 1900px 970px, 1900px 1050px;
+ }
+ h1 {
+color: white;
+font-size: 50px;
+}
+h2 {
+color: ghostwhite;
+font-size: 30px;
+margin-left: 540px;
+}
+img {
+height: 600px;
+width: 800px;
+margin-left: 540px;
+}
+textarea {
+margin-top: 50px;
+margin-left: 410px;
+}
+h3 {
+font-size: 50px;
+margin-left: 580px;
+color: whitesmoke;
+margin-top: 120px;
+}
+div {
+position: absolute;
+top: 2050px;
+left: 950px;
+margin-bottom: 150px;
+}
+#oglav1 {
+	position: absolute;
+	top: 250px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#oglav1:hover {
+	background-color: orange;
+	color: #000;
+}
+#zakaz1 {
+	position: absolute;
+	top: 380px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#zakaz1:hover {
+	background-color: orange;
+	color: #000;
+}
+#card1 {
+	position: absolute;
+	top: 520px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#card1:hover {
+	background-color: orange;
+	color: #00;
+}
+#oglav2 {
+	position: absolute;
+	top: 1100px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#oglav2:hover {
+	background-color: orange;
+	color: #00;
+}
+#zakaz2 {
+	position: absolute;
+	top: 1250px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#zakaz2:hover {
+	background-color: orange;
+	color: #00;
+}
+#card2 {
+	position: absolute;
+	top: 1400px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#card2:hover {
+	background-color: orange;
+	color: #00;
+}
+#oglav3 {
+	position: absolute;
+	top: 2200px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#oglav3:hover {
+	background-color: orange;
+	color: #00;
+}
+#zakaz3 {
+	position: absolute;
+	top: 2350px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#zakaz3:hover {
+	background-color: orange;
+	color: #00;
+}
+#card3 {
+	position: absolute;
+	top: 2500px;
+	left: 1650px;
+	background-color: red;
+	display: inline-block;
+	padding: 20px 30px;
+	color: #fff;
+	transition: 0.40s;
+}
+#card3:hover {
+	background-color: orange;
+	color: #00;
+}
+#h44 { 
+	color: white;
+	position: absolute;
+	top: 2000px;
+	left: 250px;
+	font-size: 50px;
+}
+#h45 {
+	color: white;
+	position: absolute;
+	top: 2150px;
+	left: 250px;
+	font-size: 30px;
+}
